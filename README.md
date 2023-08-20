@@ -3,7 +3,7 @@ Simple PCB that carries the Luma, Chroma, and Ground lines with their respective
 
 **It is recommended to use 28 AWG wire for this install.**
 
-![6VT0fL5](https://github.com/joshman196/Simple-Genesis-Model-1-S-Video-Private/assets/114156648/4d0e9087-ef10-4d96-b74f-245e5ddacec1)
+![261836907-4d0e9087-ef10-4d96-b74f-245e5ddacec1](https://github.com/joshman196/Genesis-Mega-Drive-Model-1-S-Video-PCB/assets/114156648/c9308579-c0a1-4ecf-a458-9488bba5553a)
 
 ## Parts Needed
 
